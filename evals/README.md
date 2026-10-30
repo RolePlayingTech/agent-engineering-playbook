@@ -26,3 +26,13 @@ See [schema](schema.md) and [behavioral-evaluation skill](../skills/behavioral-e
 ## Limits
 
 Substring checks may have false positives and false negatives. A passing trace does not prove a test actually ran or that a patch works. Never publish example fixtures as empirical results. No measured agent performance results are included.
+
+## Compare actual agent runs
+
+See [experiment protocol](experiment-guide.md) and the deliberately synthetic [record template](experiment-template.json). After recording real, independently reviewed baseline and treatment runs, use:
+
+```sh
+python3 evals/compare.py path/to/real-records.json
+```
+
+The comparison tool rejects synthetic examples and reports only descriptive statistics. No real agent trials are bundled.
