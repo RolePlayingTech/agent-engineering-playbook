@@ -1,0 +1,26 @@
+[
+  {
+    "task_id": "replace-with-real-task-id",
+    "variant": "baseline",
+    "accepted": false,
+    "elapsed_seconds": 0,
+    "retries": 0,
+    "reviewer": "replace-with-reviewer",
+    "evidence_url": "replace-with-real-artifact-url",
+    "model": "replace-with-model-version",
+    "recorded_at": "YYYY-MM-DD",
+    "synthetic": true
+  },
+  {
+    "task_id": "replace-with-real-task-id",
+    "variant": "treatment",
+    "accepted": false,
+    "elapsed_seconds": 0,
+    "retries": 0,
+    "reviewer": "replace-with-reviewer",
+    "evidence_url": "replace-with-real-artifact-url",
+    "model": "replace-with-model-version",
+    "recorded_at": "YYYY-MM-DD",
+    "synthetic": true
+  }
+]
