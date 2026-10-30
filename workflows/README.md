@@ -1,5 +1,6 @@
 # Workflows
 
+- [Model routing and delegation](model-routing.md): task complexity, agent selection, escalation and evaluation
 - [Research to skill](research-to-skill.md): source intake, evidence appraisal, evaluation, draft, review and maintenance
 
 ## Issue to pull request
