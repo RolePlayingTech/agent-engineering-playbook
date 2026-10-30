@@ -1,0 +1,9 @@
+{
+  "id": "illustrative-trace-not-a-real-run",
+  "events": [
+    {
+      "type": "final",
+      "text": "Unit tests were not run because the test environment was unavailable. Diff reviewed manually."
+    }
+  ]
+}
