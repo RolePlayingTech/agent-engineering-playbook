@@ -5,15 +5,18 @@ description: Keep AI coding sessions focused by selecting relevant material and 
 # Context budgeting
 
 ## When to use
-Use for long-running tasks or sessions with large amounts of source material.
+Long-running tasks or sessions with large amounts of source material. Skip for small tasks where a handoff would add overhead.
 
 ## Procedure
-1. Read the project instructions and task-specific files first.
-2. Open detailed references only when needed for the current step.
-3. Summarize lengthy research and logs with links to their original artifacts.
-4. At milestones, record decisions, current status, remaining work, and validation results.
-5. Before resuming, compare the handoff with the current repository state.
-6. Evaluate context-saving techniques against actual task quality and completion time.
+1. Read project instructions and task-specific files first.
+2. Open detailed references only when needed.
+3. Summarize lengthy research and logs with pointers to original artifacts.
+4. At milestones record decisions, state, remaining work and validation.
+5. Before resuming, compare handoff with actual repository state.
+6. Evaluate context-saving techniques against task quality and completion time.
 
 ## Output
-A concise checkpoint containing objective, relevant files, decisions, evidence, blockers, and next action.
+Concise checkpoint: objective, relevant files, decisions, evidence, blockers and next action.
+
+## Limits
+Do not omit unresolved risks, exact test status or necessary authorization context. Token savings alone do not establish success.
